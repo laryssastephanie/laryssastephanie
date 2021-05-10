@@ -30,5 +30,6 @@
   <a href="https://www.linkedin.com/in/laryssastephanie/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/laryssastephanie" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/laryssastephanie94" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%23333?style=for-the-badge&logo=facebook&logoColor=blue" target="_blank"></a>
+    <a href="http://lattes.cnpq.br/3213436933185270" target="_blank"><img src="https://img.shields.io/badge/-Lattes-%23349?style=for-the-badge&logo=lattes&logoColor=blue" target="_blank"></a>
   
 </div>
