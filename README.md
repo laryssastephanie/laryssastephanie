@@ -7,6 +7,7 @@
 💻 Estou no início da carreira como desenvolvedora <br>
 📚 Graduanda em ADS na UNIFIL <br>
 🤖 Residente em Inteligencia Artificial no SENAI <br>
+🐴 Mestre em Ciência Animal - UEL <br>
 
 ## Tools and Github Stats 🛠
 
