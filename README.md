@@ -4,10 +4,12 @@
 
 ### 🎵 Seja bem vindo(a) ao meu perfil! 🎵
 
-💻 Estou no início da carreira como desenvolvedora <br>
+💻 Iniciando a carreira como desenvolvedora <br>
 📚 Graduanda em ADS na UNIFIL <br>
 🤖 Residente em Inteligencia Artificial no SENAI <br>
 🐴 Mestre em Ciência Animal - UEL <br>
+🎹 Musicista por hobby <br>
+🎮 Gamer nas horas vagas <br>
 
 ## Tools and Github Stats 🛠
 
