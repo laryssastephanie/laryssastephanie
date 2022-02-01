@@ -4,7 +4,7 @@
 
 ### 🎵 Seja bem vindo(a) ao meu perfil! 🎵
 
-💻 Iniciando a carreira como desenvolvedora <br>
+💻 Iniciando a carreira como dev e cientista de dados <br>
 📚 Graduanda em ADS na UNIFIL <br>
 🤖 Residente em Inteligencia Artificial no SENAI <br>
 🐴 Mestre em Ciência Animal - UEL <br>
