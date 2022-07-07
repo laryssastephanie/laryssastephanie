@@ -6,7 +6,7 @@
 
 💻 Iniciando a carreira como dev e cientista de dados <br>
 📚 Graduanda em Análise e Desnvolvimento de Sistemas na UNIFIL <br>
-🤖 Especialista em Inteligencia Artificial pelo SENAI <br>
+🤖 Especialista em Inteligencia Artificial aplicada à Indústria pelo SENAI <br>
 🐴 Mestre em Ciência Animal - UEL <br>
 🎹 Musicista por hobby <br>
 🎮 Gamer nas horas vagas <br>
