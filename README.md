@@ -1,8 +1,8 @@
-<img style="margin-top: 40px;" alt="Lary-Pacman" align="right" width="300px" src="https://www.abmail.com.br/images/sazonais/gif_sazonal.gif">
+<h1 align="center">Oie! Eu sou a Lary! 👩‍💻</h1>
 
-## Oie! Eu sou a Lary! 👩‍💻
+## Seja bem vindo(a) ao meu perfil! 🎵
 
-### 🎵 Seja bem vindo(a) ao meu perfil! 🎵
+<img style="margin-top: 40px;" alt="Lary-Pacman" align="right" width="270px" src="https://www.abmail.com.br/images/sazonais/gif_sazonal.gif">
 
 💻 Analista de Sistemas na Golfleet Tecnologia <br>
 📚 Graduada em Análise e Desnvolvimento de Sistemas na UNIFIL <br>
