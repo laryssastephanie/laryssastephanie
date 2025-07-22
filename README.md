@@ -4,8 +4,8 @@
 
 ### 🎵 Seja bem vindo(a) ao meu perfil! 🎵
 
-💻 Transição de carreira para TI <br>
-📚 Análise e Desnvolvimento de Sistemas na UNIFIL <br>
+💻 Analista de Sistemas na Golfleet Tecnologia <br>
+📚 Graduada em Análise e Desnvolvimento de Sistemas na UNIFIL <br>
 🤖 Especialista em Inteligencia Artificial aplicada à Indústria pelo SENAI <br>
 🐴 Mestre em Ciência Animal - UEL <br>
 🎹 Musicista por hobby <br>
