@@ -12,7 +12,6 @@
 🎮 Gamer nas horas vagas <br>
 
 <br>
-<br>
 
 ## Tools and Github Stats 🛠
 
