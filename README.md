@@ -5,9 +5,9 @@
 <img style="margin-top: 40px" alt="Lary-Pacman" align="right" width="270px" src="https://www.abmail.com.br/images/sazonais/gif_sazonal.gif">
 
 💻 Analista de Sistemas na Golfleet Tecnologia <br>
-📚 Graduada em Análise e Desnvolvimento de Sistemas na UNIFIL <br>
-🤖 Especialista em Inteligencia Artificial aplicada à Indústria pelo SENAI <br>
-🐴 Mestre em Ciência Animal - UEL <br>
+📚 Graduada em Análise e Desnvolvimento de Sistemas - UNIFIL <br>
+🤖 Especialista em Inteligencia Artificial aplicada à Indústria - SENAI <br>
+🐴 Zootecnista e Mestre em Ciência Animal - UEL <br>
 🎹 Musicista por hobby <br>
 🎮 Gamer nas horas vagas <br>
 
